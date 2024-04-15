@@ -1,0 +1,4 @@
+root = "."  # Set the root directory of your project
+# build = "go build -o ./tmp/main ."
+command = "go run main.go"
+
